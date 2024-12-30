@@ -1,7 +1,7 @@
 <h1 align="center">Adnane Kharkhour</h1>
 
 <h1 align="center">
-<a href="https://www.linkedin.com/in/adnanekharkhour/"><img src="https://raw.githubusercontent.com/AdnaneKharkhour/AdnaneKharkhour/main/akharkho.svg" alt="akharkho's 42 stats" />
+<a href="https://www.linkedin.com/in/adnanekharkhour/"><img src="https://badge.mediaplus.ma/greenbinary/akharkho" alt="akharkho's 42 stats" /></a>
 </a>
 </h1>
 </h1>
